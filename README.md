@@ -1,13 +1,18 @@
-- 👋 Hi, I’m  Ruslan Gumirov
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @Ruslan_Rascheed
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ruslan Gumirov</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+- # 👀 I’m interested in programming
+- # 🌱 I’m currently learning .
+- # 💞️ I’m looking to collaborate on ...
+- # 📫 How to reach me @Ruslan_Rascheed
 
 <!---
 gumirus/gumirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumirus)](https://github.com/gumirus/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gumirus)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumirus)](https://github.com/gumirus/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=gumirus)](https://github.com/gumirus/github-profile-trophy)
