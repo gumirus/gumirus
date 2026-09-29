@@ -1,9 +1,16 @@
 <!-- <h1 align="center">Hi there, I'm <a href="https://gumirus.github.io/about_me/" target="_blank">Ruslan Gumirov</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 
-# Привет, я <a href="https://gumirus.github.io/about_me/" target="_blank">Ruslan Gumirov</a> 👋
+# Привет, я <a href="https://gumirus.github.io/about_me/" target="_blank">Руслан Гумиров</a> 👋
 
-Студент **Synergy University** (09.02.07 «Информационные системы и программирование»), параллельно учусь в **School 21 (Сбер)** и **The Rolling Scopes School**. Пишу на **JavaScript / TypeScript**, делаю интерфейсы на **React** и **Vue**, работаю с REST API. Ищу стажировку или Junior-позицию **Frontend / Fullstack**.
+Начинающий **Frontend / Fullstack-разработчик**. Учусь в **Synergy University** (09.02.07 «Информационные системы и программирование»), параллельно в **School 21 (Сбер)** и **The Rolling Scopes School**. Пишу на **JavaScript / TypeScript**, делаю интерфейсы на **React**, работаю с REST API.
+
+🎯 **Ищу стажировку или Junior-позицию** Frontend / Fullstack.
+
+<!-- Необязательно, раскомментируй и заполни:
+🌍 Английский: B1 (читаю документацию)
+📄 Резюме: [скачать PDF](ССЫЛКА)
+-->
 
 ---
 
@@ -13,19 +20,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-42B883?style=flat&logo=vuedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
@@ -40,23 +44,26 @@
 
 ### 📌 Избранные проекты
 
-- **[fast-company](https://github.com/gumirus/fast-company)** — SPA для управления сотрудниками: авторизация, CRUD, работа с API. Стек: React, Redux, React Router, Firebase.
-- **[pet-spa](https://github.com/gumirus/pet-spa)** — SPA на React. Стек: React, JavaScript, Vite.
-- **[Airbnb](https://github.com/gumirus/Airbnb)** — клон интерфейса Airbnb: карточки, фильтры, адаптив. Стек: React, CSS.
-<!-- - **[react19](https://github.com/gumirus/react19)** — практика React 19 и новых хуков. Стек: React, TypeScript. -->
-<!-- - **[Tik-Talk](https://github.com/gumirus/Tik-Talk)** — интерактивное веб-приложение. Стек: TypeScript. -->
-- **[shopping](https://github.com/gumirus/shopping)** — интернет-магазин по макету Figma. Стек: HTML, CSS, JavaScript.
-- **[rsschool-cv](https://github.com/gumirus/rsschool-cv)** — задание RS School. Стек: HTML, CSS, JavaScript.
-- **[Веб-ресурс ресторана](https://github.com/gumirus/restaurant-cafe-synergy)** — учебная практика ПМ.09. Веб-ресурс для ресторана. Стек: PHP, MySQL, HTML, CSS.
-- **[openchamber](https://github.com/gumirus/openchamber)** — Desktop и веб-интерфейс для AI-агента OpenCode: branchable chat timeline, multi-agent runs, Git и терминал. Стек: TypeScript.
+| Проект | Описание | Стек |
+|---|---|---|
+| [fast-company](https://github.com/gumirus/fast-company) | SPA для управления сотрудниками: авторизация, CRUD, работа с API | React, Redux, React Router, Firebase |
+| [pet-spa](https://github.com/gumirus/pet-spa) | Одностраничное приложение на React | React, JavaScript, Vite |
+| [Airbnb](https://github.com/gumirus/Airbnb) | Клон интерфейса Airbnb: карточки, фильтры, адаптив | React, CSS |
+| [shopping](https://github.com/gumirus/shopping) | Интернет-магазин по макету Figma | HTML, CSS, JavaScript |
+| [restaurant-cafe-synergy](https://github.com/gumirus/restaurant-cafe-synergy) | Веб-ресурс для ресторана (учебная практика ПМ.09) | PHP, MySQL, HTML, CSS |
+| [rsschool-cv](https://github.com/gumirus/rsschool-cv) | Резюме-страница, задание The Rolling Scopes School | HTML, CSS, JavaScript |
+
+<!-- Добавь сюда демо-ссылки в виде «[Демо](URL)» в описание проекта.
+     Если в openchamber есть твой вклад (PR), добавь строку:
+| [openchamber](https://github.com/gumirus/openchamber) | Вклад: <что именно сделал> | TypeScript | -->
 
 ---
 
 ### 🚀 Что умею на практике
 
-- Собираю React/Vue SPA и деплою через Vite + Nginx.
+- Собираю React SPA и деплою через Vite + Nginx.
 - Пишу Dockerfile (multi-stage build) для фронтенд-проектов.
-- Настраиваю CI/CD на GitHub Actions: сборка и деплой при пуше в main.
+- Настраиваю CI/CD на GitHub Actions: сборка и деплой при пуше в `main`.
 - Пишу backend-скрипты на Python и PHP.
 - Работаю в Linux-терминале, знаю Git flow.
 
@@ -64,44 +71,38 @@
 
 ### 🎓 Образование
 
-**School 21 (Сбер)**
-Студент · Октябрь 2025 — настоящее время
+**School 21 (Сбер)** · Октябрь 2025 — н. в.
 Основы программирования, алгоритмы, C, командная разработка.
 
-**The Rolling Scopes School**
-Студент · Frontend Developer · Июнь 2024 — настоящее время
+**The Rolling Scopes School** · Frontend Developer · Июнь 2024 — н. в.
 JavaScript, TypeScript, HTML/CSS, React, командные проекты.
 
-**Synergy University**
-Студент · Web Developer · Октябрь 2023 — настоящее время (до 2028)
-Специальность 09.02.07 «Информационные системы и программирование», профиль «Разработчик веб и мультимедийных приложений».
+**Synergy University** · Web Developer · Октябрь 2023 — н. в.
+09.02.07 «Информационные системы и программирование», профиль «Разработчик веб и мультимедийных приложений».
 
-**Result University**
-Профессия Frontend Developer · Июнь 2022 — Март 2023
-Основы веб-разработки, HTML, CSS, JavaScript.
+**Result University** · Frontend Developer · Июнь 2022 — Март 2023
+Основы веб-разработки: HTML, CSS, JavaScript.
 
 ---
 
-### 📈 Что сейчас изучаю
+### 📈 Сейчас изучаю
 
 - TypeScript в связке с React
 - Node.js / Express для Fullstack
-- Работа с REST API и авторизацией (JWT)
+- REST API и авторизация (JWT)
+- Vue и Kubernetes (базовый уровень)
 
 ---
 
 ### 📫 Контакты
 
-- GitHub: [@gumirus](https://github.com/gumirus)
-- Сайт: [gumirus.github.io/about_me](https://gumirus.github.io/about_me/)
-- Email: [gumirus29@gmail.com](mailto:gumirus29@gmail.com)
-- Telegram: [@Ruslan_Rascheed](https://t.me/Ruslan_Rascheed)
+- 💬 Telegram: [@Ruslan_Rascheed](https://t.me/Ruslan_Rascheed)
+- ✉️ Email: [gumirus29@gmail.com](mailto:gumirus29@gmail.com)
+- 🌐 Сайт: [gumirus.github.io/about_me](https://gumirus.github.io/about_me/)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=gumirus&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=gumirus&layout=compact&theme=default)
-
 <!---
 gumirus/gumirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
