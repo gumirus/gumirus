@@ -41,7 +41,6 @@
 ### 📌 Избранные проекты
 
 - **[fast-company](https://github.com/gumirus/fast-company)** — SPA для управления сотрудниками: авторизация, CRUD, работа с API. Стек: React, Redux, React Router, Firebase.
-- **[openchamber](https://github.com/gumirus/openchamber)** — Desktop и веб-интерфейс для AI-агента OpenCode: branchable chat timeline, multi-agent runs, Git и терминал. Стек: TypeScript.
 - **[pet-spa](https://github.com/gumirus/pet-spa)** — SPA на React. Стек: React, JavaScript, Vite.
 - **[Airbnb](https://github.com/gumirus/Airbnb)** — клон интерфейса Airbnb: карточки, фильтры, адаптив. Стек: React, CSS.
 - **[react19](https://github.com/gumirus/react19)** — практика React 19 и новых хуков. Стек: React, TypeScript.
@@ -49,6 +48,7 @@
 - **[shopping](https://github.com/gumirus/shopping)** — интернет-магазин по макету Figma. Стек: HTML, CSS, JavaScript.
 - **[rsschool-cv](https://github.com/gumirus/rsschool-cv)** — задание RS School. Стек: HTML, CSS, JavaScript.
 - **[Веб-ресурс ресторана](https://github.com/gumirus/restaurant-cafe-synergy)** — учебная практика ПМ.09. Веб-ресурс для ресторана. Стек: PHP, MySQL, HTML, CSS.
+- **[openchamber](https://github.com/gumirus/openchamber)** — Desktop и веб-интерфейс для AI-агента OpenCode: branchable chat timeline, multi-agent runs, Git и терминал. Стек: TypeScript.
 
 ---
 
