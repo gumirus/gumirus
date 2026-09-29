@@ -40,7 +40,7 @@
 
 ### 📌 Избранные проекты
 
-- **[fast-company](https://github.com/gumirus/ЗАМЕНИ_НА_ИМЯ_РЕПО)** — SPA для управления сотрудниками: авторизация, CRUD, работа с API. Стек: React, Redux, React Router, Firebase. *(если репозиторий существует — замени ссылку)*
+- **[fast-company](https://github.com/gumirus/fast-company)** — SPA для управления сотрудниками: авторизация, CRUD, работа с API. Стек: React, Redux, React Router, Firebase. *(если репозиторий существует — замени ссылку)*
 - **[pet-spa](https://github.com/gumirus/pet-spa)** — SPA на React. Стек: React, JavaScript, Vite.
 - **[Airbnb](https://github.com/gumirus/Airbnb)** — клон интерфейса Airbnb. Стек: React, CSS.
 - **[react19](https://github.com/gumirus/react19)** — практика React 19 и новых хуков.
@@ -54,8 +54,8 @@
 - **[react_vite](https://github.com/gumirus/react_vite)** — шаблон React + Vite с ESLint. Стек: React, Vite.
 - **[MySite](https://github.com/gumirus/MySite)** — личный сайт-портфолио. Стек: HTML, CSS, JavaScript.
 - **[demo](https://github.com/gumirus/demo)** — резюме-страница (RS School CV). Стек: HTML, CSS, JavaScript.
-- **[OpenCode AI agent](https://github.com/gumirus/ЗАМЕНИ_НА_ИМЯ_РЕПО)** — интерфейс для AI-агента. Стек: TypeScript.
-- **[Веб-ресурс ресторана](https://github.com/gumirus/ЗАМЕНИ_НА_ИМЯ_РЕПО)** — учебная практика ПМ.09. Стек: PHP, MySQL, HTML, CSS.
+- **[OpenCode AI agent](https://github.com/gumirus/openchamber)** — интерфейс для AI-агента. Стек: TypeScript.
+- **[Веб-ресурс ресторана](https://github.com/gumirus/restaurant-cafe-synergy)** — учебная практика ПМ.09. Стек: PHP, MySQL, HTML, CSS.
 
 ---
 
