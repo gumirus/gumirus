@@ -40,7 +40,7 @@
 
 ### 📌 Избранные проекты
 
-- **[fast-company](https://github.com/gumirus/ЗАМЕНИ_НА_ИМЯ_РЕПО)** — SPA для управления сотрудниками: авторизация, CRUD, работа с API. Стек: React, Redux, React Router, Firebase.
+- **[fast-company](https://fast-company-ruby.vercel.app/)** — SPA для управления сотрудниками: авторизация, CRUD, работа с API. Стек: React, Redux, React Router, Firebase.
 - **[pet-spa](https://github.com/gumirus/pet-spa)** — SPA на React. Стек: React, JavaScript, Vite.
 - **[Airbnb](https://github.com/gumirus/Airbnb)** — клон интерфейса Airbnb. Стек: React, CSS.
 - **[react19](https://github.com/gumirus/react19)** — практика React 19 и новых хуков.
