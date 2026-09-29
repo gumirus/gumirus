@@ -42,19 +42,19 @@
 
 - **[fast-company](https://github.com/gumirus/fast-company)** — SPA для управления сотрудниками: авторизация, CRUD, работа с API. Стек: React, Redux, React Router, Firebase.
 - **[pet-spa](https://github.com/gumirus/pet-spa)** — SPA на React. Стек: React, JavaScript, Vite.
-- **[Airbnb](https://github.com/gumirus/Airbnb)** — клон интерфейса Airbnb. Стек: React, CSS.
+<!-- - **[Airbnb](https://github.com/gumirus/Airbnb)** — клон интерфейса Airbnb. Стек: React, CSS. -->
 - **[react19](https://github.com/gumirus/react19)** — практика React 19 и новых хуков.
-- **[Tik-Talk](https://github.com/gumirus/Tik-Talk)** — интерактивное веб-приложение. Стек: TypeScript.
+<!-- - **[Tik-Talk](https://github.com/gumirus/Tik-Talk)** — интерактивное веб-приложение. Стек: TypeScript. -->
 - **[rsschool-cv](https://github.com/gumirus/rsschool-cv)** — задание RS School. Стек: HTML, CSS, JavaScript.
 - **[shopping](https://github.com/gumirus/shopping)** — интернет-магазин по макету Figma. Стек: HTML, CSS, JavaScript.
 - **[bodyShape](https://github.com/gumirus/bodyShape)** — лендинг фитнес-клуба по макету Figma. Стек: HTML, CSS.
-- **[JS-to_React](https://github.com/gumirus/JS-to_React)** — переход с чистого JS на React. Стек: React, JavaScript.
+<!-- - **[JS-to_React](https://github.com/gumirus/JS-to_React)** — переход с чистого JS на React. Стек: React, JavaScript. -->
 - **[dark_mode](https://github.com/gumirus/dark_mode)** — переключатель тёмной темы. Стек: HTML, CSS, JavaScript.
 - **[gulpProject](https://github.com/gumirus/gulpProject)** — сборка проекта на Gulp. Стек: Gulp, JavaScript.
-- **[react_vite](https://github.com/gumirus/react_vite)** — шаблон React + Vite с ESLint. Стек: React, Vite.
+<!-- - **[react_vite](https://github.com/gumirus/react_vite)** — шаблон React + Vite с ESLint. Стек: React, Vite. -->
 - **[MySite](https://github.com/gumirus/MySite)** — личный сайт-портфолио. Стек: HTML, CSS, JavaScript.
 - **[demo](https://github.com/gumirus/demo)** — резюме-страница (RS School CV). Стек: HTML, CSS, JavaScript.
-- **[OpenCode AI agent](https://github.com/gumirus/openchamber)** — интерфейс для AI-агента. Стек: TypeScript.
+<!-- - **[OpenCode AI agent](https://github.com/gumirus/openchamber)** — интерфейс для AI-агента. Стек: TypeScript. -->
 - **[Веб-ресурс ресторана](https://github.com/gumirus/restaurant-cafe-synergy)** — учебная практика ПМ.09. Стек: PHP, MySQL, HTML, CSS.
 
 ---
