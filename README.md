@@ -1,11 +1,22 @@
 <!-- <h1 align="center">Hi there, I'm <a href="https://gumirus.github.io/about_me/" target="_blank">Ruslan Gumirov</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 
-# Привет, я <a href="https://gumirus.github.io/about_me/" target="_blank">Руслан Гумиров</a> 👋
+<h1 align="center">Привет, я <a href="https://gumirus.github.io/about_me/" target="_blank">Руслан Гумиров</a> 👋</h1>
 
-Начинающий **Frontend / Fullstack-разработчик**. Учусь в **Synergy University** (09.02.07 «Информационные системы и программирование»), параллельно в **School 21 (Сбер)** и **The Rolling Scopes School**. Пишу на **JavaScript / TypeScript**, делаю интерфейсы на **React**, работаю с REST API.
+<p align="center">
+  <b>Начинающий Frontend / Fullstack-разработчик</b><br>
+  Учусь, строю проекты и готовлюсь к первой стажировке
+</p>
 
-🎯 **Ищу стажировку или Junior-позицию** Frontend / Fullstack.
+<p align="center">
+  <a href="https://gumirus.github.io/about_me/"><img src="https://img.shields.io/badge/Сайт-about__me-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Сайт"></a>
+  <a href="https://t.me/Ruslan_Rascheed"><img src="https://img.shields.io/badge/Telegram-написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:gumirus29@gmail.com"><img src="https://img.shields.io/badge/Email-gumirus29-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+Студент **Synergy University** (09.02.07 «Информационные системы и программирование»), параллельно учусь в **School 21 (Сбер)** и **The Rolling Scopes School**. Пишу на **JavaScript / TypeScript**, делаю интерфейсы на **React**, работаю с REST API.
+
+🎯 **Ищу стажировку или Junior-позицию:** Frontend / Fullstack. Также рассматриваю QA (тестирование) и вёрстку.
 
 <!-- Необязательно, раскомментируй и заполни:
 🌍 Английский: B1 (читаю документацию)
@@ -53,7 +64,7 @@
 | [restaurant-cafe-synergy](https://github.com/gumirus/restaurant-cafe-synergy) | Веб-ресурс для ресторана (учебная практика ПМ.09) | PHP, MySQL, HTML, CSS |
 | [rsschool-cv](https://github.com/gumirus/rsschool-cv) | Резюме-страница, задание The Rolling Scopes School | HTML, CSS, JavaScript |
 
-<!-- Добавь сюда демо-ссылки в виде «[Демо](URL)» в описание проекта.
+<!-- Добавь демо-ссылки в виде «[Демо](URL)» в описание проекта.
      Если в openchamber есть твой вклад (PR), добавь строку:
 | [openchamber](https://github.com/gumirus/openchamber) | Вклад: <что именно сделал> | TypeScript | -->
 
@@ -69,6 +80,61 @@
 
 ---
 
+### 🗺 Планы и дорожная карта
+
+Учиться мне ещё до 2028 года, поэтому у меня есть чёткий план: за это время собрать сильное портфолио, получить первый реальный опыт и выйти на рынок с дипломным проектом.
+
+**Ближайшие 3 месяца: фундамент**
+- [x] Оформить профиль GitHub и README
+- [ ] Довести 2–3 проекта до состояния «можно показать»: демо, скриншоты, README
+- [ ] Заполнить студенческое портфолио в LMS
+- [ ] Составить резюме, завести профили на hh.ru и Хабр Карьере
+- [ ] Пройти курс по трудоустройству Центра карьеры
+
+**3–9 месяцев: опыт и первые отклики**
+- [ ] Углубить TypeScript + React, освоить Node.js / Express и работу с БД
+- [ ] Начать откликаться на стажировки (Frontend / Fullstack / QA)
+- [ ] Сделать первый вклад в open source
+- [ ] Подтянуть английский до B1–B2
+
+**9–18 месяцев: стажировка и специализация**
+- [ ] Получить первую стажировку или практику на реальном проекте
+- [ ] Добавить в проекты тесты (Vitest / Jest), ESLint, CI
+- [ ] Определиться со специализацией и темой диплома
+
+**Последние 6 месяцев: диплом и выход на рынок**
+- [ ] Защитить диплом с полноценным веб-приложением: бэкенд, деплой, README
+- [ ] Обновить портфолио и откликнуться на Junior-позиции
+
+---
+
+### 📚 Что изучаю в колледже
+
+<details>
+<summary>Программа по семестрам (нажми, чтобы раскрыть)</summary>
+
+**7 семестр (сейчас)**
+- Проектирование и разработка веб-приложений
+- Оптимизация веб-приложений
+- Обеспечение безопасности веб-приложений
+- Проектирование и дизайн информационных систем
+- Разработка кода информационных систем
+- Производственные практики ПМ.05 и ПМ.09
+- Геймдизайн, программирование на C#
+
+**8–9 семестры**
+- Тестирование информационных систем
+- Проектирование и разработка интерфейсов пользователя
+- Графический дизайн и мультимедиа
+- Unity (мобильные игры), основы 3D-моделирования, sound-дизайн
+
+**10 семестр**
+- Защита дипломного проекта и демонстрационный экзамен
+
+</details>
+
+---
+
 ### 🎓 Образование
 
 **School 21 (Сбер)** · Октябрь 2025 — н. в.
@@ -77,7 +143,7 @@
 **The Rolling Scopes School** · Frontend Developer · Июнь 2024 — н. в.
 JavaScript, TypeScript, HTML/CSS, React, командные проекты.
 
-**Synergy University** · Web Developer · Октябрь 2023 — н. в.
+**Synergy University** · Web Developer · Октябрь 2023 — н. в. (до 2028)
 09.02.07 «Информационные системы и программирование», профиль «Разработчик веб и мультимедийных приложений».
 
 **Result University** · Frontend Developer · Июнь 2022 — Март 2023
@@ -102,7 +168,9 @@ JavaScript, TypeScript, HTML/CSS, React, командные проекты.
 
 ---
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=gumirus&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gumirus&layout=compact&theme=default" alt="Top Langs">
+</p>
 <!---
 gumirus/gumirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
