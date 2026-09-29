@@ -3,9 +3,7 @@
 
 # Привет, я <a href="https://gumirus.github.io/about_me/" target="_blank">Ruslan Gumirov</a> 👋
 
-Студент 7 семестра СПО по специальности **09.02.07 Информационные системы и программирование**, профиль **«Разработчик веб и мультимедийных приложений»**.
-
-Пишу на **JavaScript / TypeScript**, делаю интерфейсы на **React** и **Vue**, верстаю адаптивные страницы, работаю с REST API. Ищу стажировку или Junior-позицию **Frontend / Fullstack**.
+Студент **Synergy University** (09.02.07 «Информационные системы и программирование»), параллельно учусь в **School 21 (Сбер)** и **The Rolling Scopes School**. Пишу на **JavaScript / TypeScript**, делаю интерфейсы на **React** и **Vue**, работаю с REST API. Ищу стажировку или Junior-позицию **Frontend / Fullstack**.
 
 ---
 
@@ -20,7 +18,17 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **Инструменты**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -39,6 +47,16 @@
 - **[rsschool-cv](https://github.com/gumirus/rsschool-cv)** — задание RS School. Стек: HTML, CSS, JavaScript.
 - **[OpenCode AI agent](https://github.com/gumirus/ЗАМЕНИ_НА_ИМЯ_РЕПО)** — интерфейс для AI-агента. Стек: TypeScript.
 - **[Веб-ресурс ресторана](https://github.com/gumirus/ЗАМЕНИ_НА_ИМЯ_РЕПО)** — учебная практика ПМ.09. Стек: PHP, MySQL, HTML, CSS.
+
+---
+
+### 🚀 Что умею на практике
+
+- Собираю React/Vue SPA и деплою через Vite + Nginx.
+- Пишу Dockerfile (multi-stage build) для фронтенд-проектов.
+- Настраиваю CI/CD на GitHub Actions: сборка и деплой при пуше в main.
+- Пишу backend-скрипты на Python и PHP.
+- Работаю в Linux-терминале, знаю Git flow.
 
 ---
 
@@ -74,8 +92,8 @@ JavaScript, TypeScript, HTML/CSS, React, командные проекты.
 
 - GitHub: [@gumirus](https://github.com/gumirus)
 - Сайт: [gumirus.github.io/about_me](https://gumirus.github.io/about_me/)
-- Email: [gumirus29@gmail.com]
-- Telegram: [@Ruslan_Rascheed]
+- Email: [gumirus29@gmail.com](mailto:gumirus29@gmail.com)
+- Telegram: [@Ruslan_Rascheed](https://t.me/Ruslan_Rascheed)
 
 ---
 
