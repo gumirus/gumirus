@@ -46,7 +46,7 @@
 
 **СПО, 09.02.07 «Информационные системы и программирование»**
 Профиль: Разработчик веб и мультимедийных приложений
-7 семестр · [Название учебного заведения] · [Годы учёбы]
+7 семестр · [Synergy University] [Student Web Developer] · [October 2023/28 - Today]
 
 ---
 
@@ -62,13 +62,13 @@
 
 - GitHub: [@gumirus](https://github.com/gumirus)
 - Сайт: [gumirus.github.io/about_me](https://gumirus.github.io/about_me/)
-- Email: [твой email]
-- Telegram: [@твой_ник]
+- Email: [gumirus29@gmail.com]
+- Telegram: [@Ruslan_Rascheed]
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gumirus&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumirus&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=gumirus&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=gumirus&layout=compact&theme=default)
 
 <!---
 gumirus/gumirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
